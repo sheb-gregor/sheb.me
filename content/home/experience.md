@@ -17,21 +17,54 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Senior Go Developer"
+  company = "JAX.Network"
+  company_url = "https://jax.network"
+  location = "Kyiv, Ukraine"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """
+  * Implementation of the JAX.Network protocol [Go, fork of [btcd](https://github.com/btcsuite/btcd)].
+  * Development of the simulation and testing engine.
+  * DevOps tasks [CI/CD, Ansible, Grafana, Prometheus, Terraform, Docker, Nginx]
+  """
+
+
+
+[[experience]]
+  title = "Head Of Development"
+  company = "Inn4Science"
+  company_url = "https://inn4science.com"
+  location = "Kharkiv, Ukraine"
+  date_start = "2019-09-01"
+  date_end = "2020-08-01"
+  description = """
+  * Perform the evaluation of developers.
+  * Create a personal educational and growth plan.
+  * Improving development processes within projects and companies.
+  * Conflict resolution. Used to be a communication bridge between the sales department, management and the team.
+  """
+
+
 [[experience]]
   title = "Lead Software Engineer"
   company = "Inn4Science"
-  company_url = ""
+  company_url = "https://inn4science.com"
   location = "Kharkiv, Ukraine"
   date_start = "2018-01-22"
-  date_end = ""
+  date_end = "2020-08-01"
   description = """
-  Responsibilities include:
-  
-  * Design and implementation of microservice systems [Go, PostgreSQL, NATS Redis].
-  * Design and implementation private blockchain networks [Rust, Exonum, RocksDB, Protobuf].
+  * Design and implementation of microservice systems [Go, PostgreSQL, NATS Redis, RESTfull, gRPC, Docker, Nginx]: Accounting, Trading, Events Processing, TradeBots, Data Aggregators, etc.
+  * Design and implementation of private blockchain networks [Rust, Exonum, RocksDB].
   * Smart-contracts development for Ethereum Network. [Solidity, JavaScript, Go].
+  * DevOps tasks [CI/CD, Ansible, Grafana, Prometheus, Docker, k8s, Nomad]
   * Tutor and lecturer at the Go educational courses.
+  * Take part in sales processes: estimation, negotiation with customers as a tech guy.
   """
+
 
 [[experience]]
   title = "Software Engineer"

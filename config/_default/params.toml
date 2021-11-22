@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ms.popsuev@pm.me"
+email = "f/xqkwrrle"
 phone = ""
 
 # Address
@@ -113,8 +113,8 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:michael.po3?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@shebg"},
-   {icon = "linkedin", icon_pack = "fab", name = "Linked In", link = "https://www.linkedin.com/in/michael-popsuev-5904b310a/"},
+   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@mikepo"},
+   {icon = "linkedin", icon_pack = "fab", name = "Linked In", link = "https://www.linkedin.com/in/michael-sheb/" },
   ]
 
 ############################

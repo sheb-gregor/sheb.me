@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Popsuev
+name: Mike Sheb
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ role: Lead Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Inn4Science
-  url: "https://inn4science.com"
+- name: JAX.Network
+  url: "https://jax.network"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed systems and programmable matter.
@@ -39,10 +39,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ms.popsuev@pm.me".
+  link: '#contact'  # For a direct email link, use "mailto:contact@sheb.me".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mikepo96
+  link: https://twitter.com/sheb_m
 - icon: github
   icon_pack: fab
   link: https://github.com/sheb-gregor
@@ -63,6 +63,12 @@ user_groups:
 - Visitors
 ---
 
-I'm the head of the development department in Inn4Science. My interests are P2P networks, cryptography, programming languages, formalization of software architecture, solutions based on blockchain technologies.
+I'm the core developer at JAX.Network. My interests are P2P networks, cryptography, programming languages, formalization of software architecture, decentralisation.
 
-At the moment I am developing payment and cryptocurrency systems, training developers, research.
+I prefer to make efficient, maintainable and sneaky solutions.
+
+All my free time I devote to improving my skills and knowledge in the field of CS, driving a car or Harley, cooking and watching good films.
+
+Go(Wei Chi) beginner, FP fan, biker.
+
+
